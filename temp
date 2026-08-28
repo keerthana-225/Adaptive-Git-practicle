@@ -1,0 +1,7 @@
+git init
+git status
+git add .
+git brach -M 
+git commit -m "changes"
+git remote add origin "url"
+"git push -u origin"
